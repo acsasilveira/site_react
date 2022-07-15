@@ -25,5 +25,6 @@ export const Cabecalho = styled.header`
                     color: ${colors.primary};
                 }
             }
-        }
-    }
+        };
+    };
+`
